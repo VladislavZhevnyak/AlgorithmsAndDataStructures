@@ -1,1 +1,17 @@
-Algorithms and Data Structures
+Algorithms and Data Structures (Golang)
+
+SORTS:
+  1. bubble sort
+  2. counting sort
+  3. heap sort
+  4. insertion sort
+  5. merge sort
+  6. quick sort
+  7. selection sort
+
+SEARCH:
+  1. binary search
+  2. hashtable search
+  3. interpolation search
+  4. linear search
+  5. string search
