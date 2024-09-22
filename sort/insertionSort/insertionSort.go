@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	//O(n^2)
 	arr := []int{8, 5, 9, 0, 4, 1}
 	insertionSort(arr)
 	fmt.Println(arr)
